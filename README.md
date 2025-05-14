@@ -18,15 +18,3 @@
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
-
-### 📷 Profile Image
-To add a profile image like the round one:
-- Set a professional profile picture in your GitHub **account settings** under "Profile Picture".
-
----
-
-### 🖼️ Add an Image (Optional)
-To add an image on the right (like the person thinking in front of a PC):
-
-```markdown
-<img src="https://your-image-link.com" width="300"/>
