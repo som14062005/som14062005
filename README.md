@@ -18,3 +18,4 @@
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
+![snake gif](https://github.com/som14062005/som14062005/blob/output/github-contribution-grid-snake.gif)
