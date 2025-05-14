@@ -1,19 +1,15 @@
-# Hi there 👋 It's me Hareesh
+# Hi there 👋 It's me Praveen Somasundaram
 
-**Software Engineer @ Zoho Corporation**
+**Emerging tech enthusist**
 
 - 🛠️ Here's my [portfolio](https://your-portfolio-link.com)
-- 🧠 I'm currently learning and teaching DSA and integrating AI into my workflow.
+- 🧠 I'm currently learning  DSA in Java and Developing my Skills in Web devbelopment
 - 🏢 Engineering at [HighBrow](https://highbrow.com)
 - 🔄 Previously worked with 💻🧬
-- ⚡ Fun fact: I know Japanese.
 
 ### 📡 Social Presence
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
-
 ---
 
 ### 💻 I code in
