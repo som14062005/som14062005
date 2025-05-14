@@ -4,7 +4,7 @@
 
 - 🛠️ Here's my [portfolio](https://your-portfolio-link.com)
 - 🧠 I'm currently learning  DSA in Java and learning Web devbelopment
-- 🏢 Engineering Student At <img src="https://github.com/som14062005/som14062005/blob/main/clg%20log.jpeg" alt="College Logo" height="25"/>
+- 🏢 Engineering Student At <img src="https://github.com/som14062005/som14062005/blob/main/clg%20log.jpeg" alt="College Logo" height="75"/>
 - 🔄 Previously worked with 💻🧬
 
 ### 📡 Social Presence
