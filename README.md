@@ -1,6 +1,6 @@
 # Hi there 👋 It's me Praveen Somasundaram
 
-**Emerging tech enthusist**
+**Emerging tech enthusiast**
 
 - 🛠️ Here's my [portfolio](https://your-portfolio-link.com)
 - 🧠 I'm currently learning  DSA in Java and Web devbelopment
