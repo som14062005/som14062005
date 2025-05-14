@@ -3,8 +3,8 @@
 **Emerging tech enthusist**
 
 - 🛠️ Here's my [portfolio](https://your-portfolio-link.com)
-- 🧠 I'm currently learning  DSA in Java and Developing my Skills in Web devbelopment
-- 🏢 Engineering at [HighBrow](https://highbrow.com)
+- 🧠 I'm currently learning  DSA in Java and learning Web devbelopment
+- 🏢 Engineering Student At <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rajalakshmi.org%2Fpg-admissions-2023%2Fregister.php&psig=AOvVaw1Dgb0nALLqk3f4u7gNLTvw&ust=1747328205215000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOitwv22o40DFQAAAAAdAAAAABAE" alt="College Logo" height="25"/>
 - 🔄 Previously worked with 💻🧬
 
 ### 📡 Social Presence
