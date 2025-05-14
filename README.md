@@ -3,9 +3,8 @@
 **Emerging tech enthusist**
 
 - 🛠️ Here's my [portfolio](https://your-portfolio-link.com)
-- 🧠 I'm currently learning  DSA in Java and learning Web devbelopment
-- 🏢 Engineering Student At <img src="https://github.com/som14062005/som14062005/blob/main/clg%20log.jpeg" alt="College Logo" height="75"/>
-- 🔄 Previously worked with 💻🧬
+- 🧠 I'm currently learning  DSA in Java and Web devbelopment
+- 🏢 Engineering Student At Rajalakshmi Engineering College<img src="https://github.com/som14062005/som14062005/blob/main/clg%20log.jpeg" alt="College Logo" height="50"/>
 
 ### 📡 Social Presence
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
