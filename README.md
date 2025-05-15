@@ -9,6 +9,8 @@
 ### 📡 Social Presence
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Naukri](https://img.shields.io/badge/Naukri-Profile-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE0LjUgMjAuNDVoMS4zNHYtNS45OWg0LjMxdjUuOTloMS4zNFYxMC41aC0xLjM0djIuNjFoLTQuMzFWMTAuNUgxNC41djkuOTl6TTEwLjQgMjAuNDVoMS4zNFYxMi4yMmgyLjM2di0xLjcySDguMDZ2MS43MmgxLjM0djguMjN6TTE3LjE0IDIyLjc0aC0uMDVjLS4wOS4xMi0uMTcuMjMtLjI2LjM1YTMuMDMgMy4wMyAwIDAwLTIuNDcuOWwtLjA4LjA3YTIuNzIgMi43MiAwIDAwLS43Ljg2bC0uMDEuMDJhMi41NiAyLjU2IDAgMDAtLjI1IDEuMS42Ni42NiAwIDAwLjEzLjYxYy4xNC4zNC40LjU1Ljc0LjU4bC4wNi4wMWMuMjEuMDIuNDItLjAyLjYyLS4xMmwuMDYtLjA1YS45Mi45MiAwIDAwLjIzLS4yMyAxLjY4IDEuNjggMCAwMC41NC0xLjQ5LjU1LjU1IDAgMDAtLjE2LS4zOXYtLjAyYy4wNS0uMjQuMi0uNDYuNC0uNTguMTktLjExLjQyLS4xNi42NS0uMTMuMTIuMDEuMjQuMDIuMzYuMDUuMjMuMDYuNDQuMTguNjIuMzIuMDguMDYuMTYuMTIuMjMuMThsLjIuMTZBNC4xMyA0LjEzIDAgMDExNy4xNCAyMi43NHoiLz48L3N2Zz4=)](https://www.naukri.com/mnjuser/profile)
+
 ---
 
 ### 💻 I code in
