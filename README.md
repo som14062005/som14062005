@@ -2,8 +2,8 @@
 
 **Emerging tech enthusiast**
 
-- 🛠️ Here's my [portfolio](https://your-portfolio-link.com)
-- 🧠 I'm currently learning  DSA in Java and Web devbelopment
+- 🛠️ Here's my [portfolio](https://www.linkedin.com/in/praveen-somasundaram2005/)
+- 🧠 I'm currently learning  DSA in Java , Web devbelopment and Exploring Other Domains
 - 🏢 Engineering Student At Rajalakshmi Engineering College,Thandalam
 
 ### 📡 Social Presence
