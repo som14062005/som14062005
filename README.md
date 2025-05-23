@@ -36,6 +36,9 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ---
+<img src="https://ghchart.rshah.org/5e60ce/som14062005" alt="GitHub Contribution Graph" width="85%" />
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake.svg" />
