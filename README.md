@@ -3,7 +3,7 @@
 **Emerging tech enthusiast**
 
 - 🛠️ Here's my [portfolio]()
-- 🧠 I'm currently learning  DSA in Java , Web devbelopment and Exploring Other Domains
+- 🧠 I'm currently learning  DSA in Java , Web development and Exploring Other Domains
 - 🏢 Engineering Student At Rajalakshmi Engineering College,Thandalam
 
 ### 📡 Social Presence
