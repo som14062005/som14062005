@@ -1,19 +1,4 @@
-<div align="center">
 
-<!-- EPIC MATRIX RAIN EFFECT -->
-<img src="https://capsule-render.vercel.app/api?type=matrix&color=00ff41&height=100&section=header&text=ENTERING%20PRAVEEN'S%20MATRIX&fontSize=20&animation=blinking" />
-
-<!-- HOLOGRAPHIC TITLE WITH MULTIPLE ANIMATIONS -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=1000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=300&lines=%F0%9F%8C%80+WELCOME+TO+THE+DIGITAL+REALM+%F0%9F%8C%80;%E2%9A%A1+I+AM+PRAVEEN+SOMASUNDARAM+%E2%9A%A1;%F0%9F%94%A5+MASTER+OF+CODE+%26+REALITY+%F0%9F%94%A5;%F0%9F%9A%80+ARCHITECTING+THE+FUTURE+%F0%9F%9A%80;%F0%9F%A7%A0+AI-HUMAN+HYBRID+DEVELOPER+%F0%9F%A7%A0;%F0%9F%8C%9F+BREAKING+DIGITAL+BOUNDARIES+%F0%9F%8C%9F" alt="Holographic Title" />
-</h1>
-
-<!-- NEON GLITCH SUBTITLE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=1000&color=FF6B35&background=FF000000&center=true&vCenter=true&multiline=true&repeat=true&width=1200&lines=%3C%2F%3E+EMERGING+TECH+WIZARD+%3C%2F%3E;%7B%7D+FULL-STACK+SORCERER+%7B%7D;%5B%5D+CODE+ALCHEMIST+%5B%5D;%28%29+DIGITAL+ARCHITECT+%28%29" />
-</p>
-
-</div>
 
 <!-- ANIMATED SEPARATOR -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
