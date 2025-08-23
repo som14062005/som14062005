@@ -1,207 +1,580 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praveen Somasundaram - 3D Profile</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-<!-- Animated Header with Particles -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PRAVEEN%20SOMASUNDARAM&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            overflow-x: hidden;
+            min-height: 100vh;
+            position: relative;
+        }
 
-</div>
+        /* Animated Background Particles */
+        .particles {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            overflow: hidden;
+        }
 
-<!-- Holographic Name Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&background=FF000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=⚡+FULL+STACK+WIZARD+⚡;🚀+CODE+ARCHITECT+🚀;💎+DIGITAL+INNOVATOR+💎" alt="Holographic Title"/>
-</h1>
+        .particle {
+            position: absolute;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 50%;
+            animation: float 6s ease-in-out infinite;
+        }
 
-<!-- Matrix Rain Effect Header -->
-<div align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="600" height="300"/>
-</div>
+        @keyframes float {
+            0%, 100% { transform: translateY(0px) rotate(0deg); }
+            33% { transform: translateY(-30px) rotate(120deg); }
+            66% { transform: translateY(-60px) rotate(240deg); }
+        }
 
-<!-- Neon Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+        /* Hero Section */
+        .hero {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+            padding: 2rem;
+            position: relative;
+        }
 
-<!-- 3D Floating Profile Section -->
-<table align="center">
-<tr>
-<td align="center" width="50%">
+        .hero-title {
+            font-size: 4rem;
+            font-weight: 900;
+            margin-bottom: 1rem;
+            background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4);
+            background-size: 400% 400%;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: gradientShift 3s ease-in-out infinite;
+            transform: perspective(1000px) rotateX(15deg);
+            text-shadow: 0 20px 40px rgba(0,0,0,0.3);
+        }
 
-### 🌌 DIGITAL IDENTITY
+        @keyframes gradientShift {
+            0%, 100% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+        }
 
-```css
-.developer {
-  name: "Praveen Somasundaram";
-  location: "Chennai, Tamil Nadu 🇮🇳";
-  current_mission: "Building the Future";
-  superpower: "Turning Coffee into Code";
-  level: "Engineering Student++";
-  experience_points: "Loading...";
-  favorite_bug: "It's not a bug, it's a feature";
-}
+        .hero-subtitle {
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+            opacity: 0.9;
+            animation: slideUp 1s ease-out 0.5s both;
+        }
 
-.stats {
-  languages_spoken: ["Java", "JavaScript", "React", "Node.js"];
-  daily_routine: ["Code", "Debug", "Coffee", "Repeat"];
-  dream: "To revolutionize the digital world";
-}
-```
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 0.9;
+                transform: translateY(0);
+            }
+        }
 
-</td>
-<td align="center" width="50%">
+        /* 3D Card Container */
+        .card-container {
+            perspective: 1000px;
+            margin: 4rem auto;
+            max-width: 1200px;
+            padding: 0 2rem;
+        }
 
-<!-- 3D Avatar -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+        .profile-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(20px);
+            border-radius: 30px;
+            padding: 3rem;
+            transform-style: preserve-3d;
+            transition: transform 0.6s ease;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 40px 80px rgba(0, 0, 0, 0.3);
+            animation: cardFloat 4s ease-in-out infinite;
+        }
 
-### ⚡ CURRENT QUESTS
-- 🎯 **Mastering DSA** - Solving algorithms like a ninja
-- 🌐 **Web Development** - Crafting digital experiences  
-- 🚀 **Full-Stack Journey** - Building end-to-end solutions
-- 🧠 **AI Exploration** - Diving into the future
+        @keyframes cardFloat {
+            0%, 100% { transform: translateY(0px) rotateY(0deg); }
+            25% { transform: translateY(-10px) rotateY(2deg); }
+            50% { transform: translateY(-15px) rotateY(0deg); }
+            75% { transform: translateY(-10px) rotateY(-2deg); }
+        }
 
-</td>
-</tr>
-</table>
+        .profile-card:hover {
+            transform: rotateX(5deg) rotateY(5deg) translateZ(20px);
+        }
 
-<!-- Glitch Effect Separator -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="3">
-</div>
+        /* Skills Section */
+        .skills-section {
+            margin: 3rem 0;
+        }
 
-<!-- Cyber Skills Arsenal -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&width=300&lines=TECH+ARSENAL+🔥" alt="Tech Arsenal"/>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
+        .section-title {
+            font-size: 2.5rem;
+            text-align: center;
+            margin-bottom: 2rem;
+            background: linear-gradient(45deg, #ffd700, #ff8c00);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: pulse 2s ease-in-out infinite;
+        }
 
-<div align="center">
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+        }
 
-<!-- Animated Tech Stack -->
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
 
-</div>
+        .skill-item {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 1.5rem;
+            border-radius: 20px;
+            text-align: center;
+            transform: translateZ(0);
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            position: relative;
+            overflow: hidden;
+        }
 
-<!-- Power Level Bars -->
-<div align="center">
+        .skill-item::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent);
+            transform: rotate(45deg);
+            transition: all 0.5s ease;
+            opacity: 0;
+        }
 
-```
-💻 Full-Stack Development  ████████████████████   100%
-🐍 Java & Data Structures  ██████████████████     90%
-⚛️  React & Frontend       ████████████████       85%
-🗄️ Database Management    ██████████████         75%
-🚀 DevOps & Deployment    ████████████           70%
-🎨 UI/UX Design           ██████████             65%
-```
+        .skill-item:hover::before {
+            opacity: 1;
+            animation: shine 0.5s ease;
+        }
 
-</div>
+        @keyframes shine {
+            0% { transform: translateX(-100%) translateY(-100%) rotate(45deg); }
+            100% { transform: translateX(100%) translateY(100%) rotate(45deg); }
+        }
 
-<!-- Holographic Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+        .skill-item:hover {
+            transform: translateY(-10px) rotateX(10deg);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+            background: rgba(255, 255, 255, 0.15);
+        }
 
-<!-- GitHub Stats Cyber Dashboard -->
-<h2 align="center">📊 CYBER DASHBOARD</h2>
+        .skill-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            animation: bounce 2s ease-in-out infinite;
+        }
 
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=som14062005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=F85D7F&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=som14062005&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak"/>
-</div>
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+            40% { transform: translateY(-10px); }
+            60% { transform: translateY(-5px); }
+        }
 
-<!-- 3D Contribution Graph -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=som14062005&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-</div>
+        /* Social Links */
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin: 3rem 0;
+            flex-wrap: wrap;
+        }
 
-<!-- Language Stats Radar -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=som14062005&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=F85D7F" alt="Top Languages"/>
-</div>
+        .social-link {
+            display: inline-block;
+            padding: 1rem 2rem;
+            background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
+            color: white;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            transform: translateZ(0);
+            position: relative;
+            overflow: hidden;
+        }
 
-<!-- Achievement Showcase -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=som14062005&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophy Case"/>
-</div>
+        .social-link::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+            transition: all 0.5s ease;
+        }
 
-<!-- Interactive Snake Game -->
-<h2 align="center">🐍 CONTRIBUTION DEVOURER</h2>
-<div align="center">
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake-dark.svg" />
-</div>
+        .social-link:hover::before {
+            left: 100%;
+        }
 
-<!-- Neon Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+        .social-link:hover {
+            transform: translateY(-5px) scale(1.05);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+        }
 
-<!-- Projects Showcase -->
-<h2 align="center">
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35">
-FEATURED PROJECTS
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35">
-</h2>
+        /* Contribution Graph Styling */
+        .contribution-section {
+            margin: 4rem 0;
+            text-align: center;
+        }
 
-<div align="center">
-<a href="https://github.com/som14062005/awesome-project-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=som14062005&repo=awesome-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=F8D866&icon_color=F85D7F" alt="Project 1"/>
-</a>
-<a href="https://github.com/som14062005/incredible-project-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=som14062005&repo=incredible-project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=F8D866&icon_color=F85D7F" alt="Project 2"/>
-</a>
-</div>
+        .contribution-graph {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 20px;
+            padding: 2rem;
+            margin: 2rem 0;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            animation: slideInUp 1s ease-out;
+        }
 
-<!-- Holographic Connection Portal -->
-<h2 align="center">🌐 CONNECT TO MY UNIVERSE</h2>
+        @keyframes slideInUp {
+            from {
+                opacity: 0;
+                transform: translateY(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
 
-<div align="center">
+        .contribution-graph img {
+            max-width: 100%;
+            border-radius: 10px;
+            filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.3));
+        }
 
-<a href="https://www.linkedin.com/in/praveen-somasundaram2005/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=000000" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/yourusername">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=000000" alt="Instagram"/>
-</a>
-<a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=000000" alt="Gmail"/>
-</a>
-<a href="your-portfolio-link">
-  <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF7139&color=000000" alt="Portfolio"/>
-</a>
+        /* Snake Animation Container */
+        .snake-container {
+            margin: 3rem 0;
+            text-align: center;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 20px;
+            padding: 2rem;
+            backdrop-filter: blur(10px);
+        }
 
-</div>
+        .snake-container img {
+            max-width: 100%;
+            border-radius: 15px;
+        }
 
-<!-- Random Dev Wisdom -->
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</div>
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .hero-title {
+                font-size: 2.5rem;
+            }
+            
+            .profile-card {
+                margin: 2rem 1rem;
+                padding: 2rem;
+            }
+            
+            .skills-grid {
+                grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+                gap: 1rem;
+            }
+            
+            .social-links {
+                gap: 1rem;
+            }
+        }
 
-<!-- Visitor Counter with Style -->
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=som14062005&label=VISITORS&style=for-the-badge&color=F85D7F" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/som14062005?label=FOLLOWERS&style=for-the-badge&color=F8D866&labelColor=282828" alt="Followers"/>
-</div>
+        /* Loading Animation */
+        .loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            animation: fadeOut 2s ease-in-out 1s both;
+        }
 
-<!-- Interactive Footer -->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+Let's+build+the+future+together! 🚀;Always+learning%2C+always+coding%2C+always+growing! 💫;The+best+way+to+predict+the+future+is+to+code+it! ⚡" alt="Footer Message"/>
-</div>
+        @keyframes fadeOut {
+            to {
+                opacity: 0;
+                visibility: hidden;
+            }
+        }
 
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+        .loading-spinner {
+            width: 80px;
+            height: 80px;
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-top: 4px solid #fff;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
 
-<!-- Secret Easter Egg -->
-<div align="center">
-<details>
-<summary>🎮 SECRET ACHIEVEMENT UNLOCKED</summary>
-<br>
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
 
-```
-🏆 PROFILE EXPLORER ACHIEVEMENT 
-You found the hidden section! 
-Here's a secret: I debug with console.log and rubber ducks! 🦆
-```
+        /* Scroll indicator */
+        .scroll-indicator {
+            position: absolute;
+            bottom: 2rem;
+            left: 50%;
+            transform: translateX(-50%);
+            animation: scrollBounce 2s ease-in-out infinite;
+        }
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
+        @keyframes scrollBounce {
+            0%, 20%, 50%, 80%, 100% { transform: translateX(-50%) translateY(0); }
+            40% { transform: translateX(-50%) translateY(-10px); }
+            60% { transform: translateX(-50%) translateY(-5px); }
+        }
+    </style>
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div class="loading-overlay">
+        <div class="loading-spinner"></div>
+    </div>
 
-</details>
-</div>
+    <!-- Animated Background Particles -->
+    <div class="particles" id="particles"></div>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1 class="hero-title">Hi there 👋 It's me<br>Praveen Somasundaram</h1>
+        <p class="hero-subtitle">🚀 Emerging Tech Enthusiast & Engineering Student</p>
+        <div class="scroll-indicator">
+            <div style="font-size: 2rem; animation: bounce 2s ease-in-out infinite;">⬇️</div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <div class="card-container">
+        <div class="profile-card">
+            <!-- About Section -->
+            <div style="text-align: center; margin-bottom: 3rem;">
+                <h2 style="font-size: 2rem; margin-bottom: 1rem; color: #ffd700;">🛠️ About Me</h2>
+                <p style="font-size: 1.2rem; line-height: 1.8; opacity: 0.9;">
+                    🧠 Currently learning DSA in Java, Web Development and Exploring Other Domains<br>
+                    🏢 Engineering Student At Rajalakshmi Engineering College, Thandalam
+                </p>
+            </div>
+
+            <!-- Social Links -->
+            <h2 class="section-title">📡 Connect With Me</h2>
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/praveen-somasundaram2005/" class="social-link" target="_blank">
+                    LinkedIn 💼
+                </a>
+                <a href="https://instagram.com/yourusername" class="social-link" target="_blank">
+                    Instagram 📸
+                </a>
+                <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" class="social-link" target="_blank">
+                    Naukri 🎯
+                </a>
+                <a href="#" class="social-link" target="_blank">
+                    Portfolio 🌐
+                </a>
+            </div>
+
+            <!-- Skills Section -->
+            <div class="skills-section">
+                <h2 class="section-title">💻 I Code In</h2>
+                <div class="skills-grid">
+                    <div class="skill-item">
+                        <div class="skill-icon">🟨</div>
+                        <h3>JavaScript</h3>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon">⚛️</div>
+                        <h3>React</h3>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon">🟢</div>
+                        <h3>Node.js</h3>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon">🌐</div>
+                        <h3>HTML5</h3>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon">🎨</div>
+                        <h3>CSS3</h3>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon">☕</div>
+                        <h3>Java</h3>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tools Section -->
+            <div class="skills-section">
+                <h2 class="section-title">🛠️ Tools & Technologies</h2>
+                <div class="skills-grid">
+                    <div class="skill-item">
+                        <div class="skill-icon">🎯</div>
+                        <h3>Figma</h3>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon">📮</div>
+                        <h3>Postman</h3>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon">💻</div>
+                        <h3>VS Code</h3>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon">🔧</div>
+                        <h3>Git</h3>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon">🐘</div>
+                        <h3>PostgreSQL</h3>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon">🔥</div>
+                        <h3>Firebase</h3>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon">🍃</div>
+                        <h3>MongoDB</h3>
+                    </div>
+                    <div class="skill-item">
+                        <div class="skill-icon">📊</div>
+                        <h3>Jupyter</h3>
+                    </div>
+                </div>
+            </div>
+
+            <!-- GitHub Stats -->
+            <div class="contribution-section">
+                <h2 class="section-title">📊 GitHub Activity</h2>
+                <div class="contribution-graph">
+                    <img src="https://ghchart.rshah.org/5e60ce/som14062005" alt="GitHub Contribution Graph" style="max-width: 100%; border-radius: 10px;" />
+                </div>
+            </div>
+
+            <!-- GitHub Snake -->
+            <div class="snake-container">
+                <h2 class="section-title">🐍 Contribution Snake</h2>
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake.svg" />
+                    <img alt="github-snake" src="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake.svg" style="max-width: 100%;" />
+                </picture>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Create floating particles
+        function createParticles() {
+            const particlesContainer = document.getElementById('particles');
+            const particleCount = 50;
+
+            for (let i = 0; i < particleCount; i++) {
+                const particle = document.createElement('div');
+                particle.className = 'particle';
+                
+                const size = Math.random() * 4 + 1;
+                particle.style.width = size + 'px';
+                particle.style.height = size + 'px';
+                particle.style.left = Math.random() * 100 + '%';
+                particle.style.top = Math.random() * 100 + '%';
+                particle.style.animationDelay = Math.random() * 6 + 's';
+                particle.style.animationDuration = (Math.random() * 3 + 4) + 's';
+                
+                particlesContainer.appendChild(particle);
+            }
+        }
+
+        // Mouse movement parallax effect
+        document.addEventListener('mousemove', (e) => {
+            const mouseX = e.clientX / window.innerWidth;
+            const mouseY = e.clientY / window.innerHeight;
+            
+            const cards = document.querySelectorAll('.profile-card, .skill-item');
+            cards.forEach((card, index) => {
+                const speed = (index + 1) * 0.5;
+                const x = (mouseX - 0.5) * speed;
+                const y = (mouseY - 0.5) * speed;
+                card.style.transform += ` translate3d(${x}px, ${y}px, 0)`;
+            });
+        });
+
+        // Intersection Observer for animations
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.animation = 'slideInUp 0.8s ease-out both';
+                }
+            });
+        }, observerOptions);
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            createParticles();
+            
+            // Observe skill items for scroll animations
+            document.querySelectorAll('.skill-item, .contribution-graph, .snake-container').forEach(el => {
+                observer.observe(el);
+            });
+        });
+
+        // Smooth scrolling
+        document.addEventListener('click', (e) => {
+            if (e.target.closest('.scroll-indicator')) {
+                window.scrollTo({
+                    top: window.innerHeight,
+                    behavior: 'smooth'
+                });
+            }
+        });
+    </script>
+</body>
+</html>
