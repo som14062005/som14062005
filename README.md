@@ -1,339 +1,475 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey Universe, I'm **PRAVEEN SOMASUNDARAM** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<!-- EPIC MATRIX RAIN EFFECT -->
+<img src="https://capsule-render.vercel.app/api?type=matrix&color=00ff41&height=100&section=header&text=ENTERING%20PRAVEEN'S%20MATRIX&fontSize=20&animation=blinking" />
 
-</div>
+<!-- HOLOGRAPHIC TITLE WITH MULTIPLE ANIMATIONS -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=1000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=300&lines=%F0%9F%8C%80+WELCOME+TO+THE+DIGITAL+REALM+%F0%9F%8C%80;%E2%9A%A1+I+AM+PRAVEEN+SOMASUNDARAM+%E2%9A%A1;%F0%9F%94%A5+MASTER+OF+CODE+%26+REALITY+%F0%9F%94%A5;%F0%9F%9A%80+ARCHITECTING+THE+FUTURE+%F0%9F%9A%80;%F0%9F%A7%A0+AI-HUMAN+HYBRID+DEVELOPER+%F0%9F%A7%A0;%F0%9F%8C%9F+BREAKING+DIGITAL+BOUNDARIES+%F0%9F%8C%9F" alt="Holographic Title" />
+</h1>
 
+<!-- NEON GLITCH SUBTITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=1500&pause=500&color=00D9FF&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=200&lines=%E2%9A%A1+EMERGING+TECH+ENTHUSIAST+%E2%9A%A1;%F0%9F%9A%80+FULL+STACK+DEVELOPER+%F0%9F%9A%80;%F0%9F%A7%A0+AI%2FML+EXPLORER+%F0%9F%A7%A0;%F0%9F%94%A5+CODE+WIZARD+%F0%9F%94%A5;%F0%9F%8C%9F+DREAM+BUILDER+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=1000&color=FF6B35&background=FF000000&center=true&vCenter=true&multiline=true&repeat=true&width=1200&lines=%3C%2F%3E+EMERGING+TECH+WIZARD+%3C%2F%3E;%7B%7D+FULL-STACK+SORCERER+%7B%7D;%5B%5D+CODE+ALCHEMIST+%5B%5D;%28%29+DIGITAL+ARCHITECT+%28%29" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</div>
 
----
+<!-- ANIMATED SEPARATOR -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
+<!-- CYBERPUNK LOADING BAR -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=16&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=SYSTEM+INITIALIZING...;LOADING+NEURAL+NETWORKS...;CONNECTING+TO+MAINFRAME...;ACCESS+GRANTED+%E2%9C%85;WELCOME+TO+MY+DIGITAL+UNIVERSE!" />
+</div>
+
+<br>
+
+<!-- 3D HOLOGRAPHIC PROFILE CARD -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> **ABOUT ME** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **NEURAL PROFILE DATA** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
 
 </div>
 
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table align="center">
+<tr>
+<td width="50%">
 
 ```javascript
-const praveen = {
-    name: "Praveen Somasundaram",
-    role: "Emerging Tech Enthusiast 🚀",
-    location: "Chennai, Tamil Nadu, India 🇮🇳",
-    education: "Rajalakshmi Engineering College 🎓",
+class UltimateDeveloper {
+    constructor() {
+        this.name = "Praveen Somasundaram";
+        this.title = "🌀 Digital Reality Architect";
+        this.location = "Chennai, Tamil Nadu 🇮🇳";
+        this.education = "Rajalakshmi Engineering College";
+        this.mode = "🔥 BEAST MODE ACTIVATED 🔥";
+        
+        this.stats = {
+            experience: "Rising Superstar 🌟",
+            projects_completed: "∞ (Always Building)",
+            coffee_consumed: "9999+ Cups ☕",
+            lines_of_code: "1M+ and counting...",
+            bugs_crushed: "∞ (Bug Destroyer)",
+            all_nighters: "Too many to count 🌙"
+        };
+        
+        this.current_mission = [
+            "🎯 Mastering DSA in Java",
+            "⚡ Advanced React Sorcery", 
+            "☁️ Cloud Computing Domination",
+            "🤖 AI/ML Neural Networks",
+            "🚀 Building SaaS Empire"
+        ];
+        
+        this.superpowers = [
+            "⚡ Lightning-fast debugging",
+            "🧠 Infinite learning capacity",
+            "🔮 Future tech prediction", 
+            "💻 Code in matrix dreams",
+            "🚀 Turning ideas into reality"
+        ];
+        
+        this.life_motto = "Code • Create • Conquer • Repeat";
+    }
     
-    currentlyLearning: [
-        "DSA in Java ☕",
-        "Advanced React.js ⚛️", 
-        "Cloud Computing ☁️",
-        "AI/ML Algorithms 🤖"
-    ],
+    async buildTheFuture() {
+        while(this.alive) {
+            this.learn();
+            this.code();
+            this.innovate();
+            this.inspire();
+            await this.sleep(4); // 4hrs max! 😤
+        }
+    }
     
-    goals2024: [
-        "Master Full-Stack Development 💻",
-        "Build 10+ Projects 🛠️",
-        "Contribute to Open Source 🌍",
-        "Launch SaaS Product 🚀"
-    ],
-    
-    funFacts: [
-        "I debug faster than I solve Rubik's cube 🧩",
-        "Coffee-driven developer ☕",
-        "Can code for 12+ hours straight 💪",
-        "Dream in JavaScript 😴"
-    ],
-    
-    askMeAbout: ["Web Dev", "Java", "React", "Node.js", "DSA"],
-    reachMe: "praveensomasundaram2005@gmail.com"
-};
+    getContactInfo() {
+        return {
+            email: "praveensomasundaram2005@gmail.com",
+            linkedin: "linkedin.com/in/praveen-somasundaram2005",
+            portfolio: "Coming Soon... 🚀",
+            status: "Ready to change the world! 🌍"
+        };
+    }
+}
 
-console.log("Welcome to my digital universe! 🌌");
+const praveen = new UltimateDeveloper();
+praveen.buildTheFuture();
+console.log("🌟 Welcome to my digital universe! 🌟");
 ```
 
-<br><br>
+</td>
+<td width="50%">
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <br><br>
+  
+  **🎮 CURRENT STATUS:**
+  
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1500&pause=800&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=300&lines=ONLINE+%E2%9C%85;CODING+%F0%9F%92%BB;LEARNING+%F0%9F%A7%A0;BUILDING+%F0%9F%9A%80;INNOVATING+%F0%9F%92%A1;CONQUERING+%F0%9F%8F%86" />
+  
+  **⚡ POWER LEVEL: OVER 9000! ⚡**
+  
+  ![Power Level](https://progress-bar.dev/99/?scale=100&title=Coding&width=200&color=ff6b35&suffix=%25)
+  ![Power Level](https://progress-bar.dev/95/?scale=100&title=Learning&width=200&color=00ff41&suffix=%25)  
+  ![Power Level](https://progress-bar.dev/88/?scale=100&title=Innovation&width=200&color=00d9ff&suffix=%25)
+  ![Power Level](https://progress-bar.dev/92/?scale=100&title=Problem+Solving&width=200&color=ff0080&suffix=%25)
+  
+</div>
+
+</td>
+</tr>
+</table>
+
+<!-- ANIMATED TECH STACK MATRIX -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> **TECH ARSENAL** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> **⚡ TECH ARSENAL MATRIX ⚡** <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=INITIALIZING+WEAPON+SYSTEMS...;LOADING+TECH+ARSENAL...;ALL+SYSTEMS+OPERATIONAL!+%E2%9C%85" />
 
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"> **LANGUAGES & FRAMEWORKS**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,java,python,typescript,nextjs&theme=dark" />
-</p>
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7423ec.gif" width="100"> **TOOLS & TECHNOLOGIES**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,postman,figma,docker,aws,firebase&theme=dark" />
-</p>
-
-<div align="center">
-
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"> **DATABASES & CLOUD**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,aws,gcp,redis,supabase&theme=dark" />
-</p>
-
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50"> **CONNECT WITH ME** <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50">
-
-</div>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/praveen-somasundaram2005/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/yourusername">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
-  <img src="https://img.shields.io/badge/Naukri-4A90E2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" />
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-</a>
-<a href="mailto:praveensomasundaram2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="300">
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"> **GITHUB STATISTICS** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50">
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=som14062005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=🔥%20Praveen's%20GitHub%20Stats%20🔥" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=som14062005&layout=compact&theme=tokyonight&hide_border=true&custom_title=💻%20Most%20Used%20Languages%20💻" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.demolab.com?user=som14062005&theme=tokyonight&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&background=1A1B27&stroke=70A5FD&currStreakNum=70A5FD&sideNums=70A5FD&sideLabels=70A5FD&dates=38F9D7" />
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d5940d-e9c1-4d9c-80ef-9c0e87e6555e.png" width="50"> **ACTIVITY GRAPH** <img src="https://user-images.githubusercontent.com/74038190/216122003-15d5940d-e9c1-4d9c-80ef-9c0e87e6555e.png" width="50">
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=som14062005&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38f9d7&area=true&hide_border=true&custom_title=💫%20Praveen's%20Contribution%20Graph%20💫" width="100%"/>
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216121918-25bee3fc-7fd4-4c17-b7dd-27fe1c0c1e85.png" width="50"> **GITHUB TROPHIES** <img src="https://user-images.githubusercontent.com/74038190/216121918-25bee3fc-7fd4-4c17-b7dd-27fe1c0c1e85.png" width="50">
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=som14062005&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122008-ec3bce41-9c80-4f60-841e-df0c3e90ece8.png" width="50"> **CONTRIBUTION SNAKE** <img src="https://user-images.githubusercontent.com/74038190/216122008-ec3bce41-9c80-4f60-841e-df0c3e90ece8.png" width="50">
-
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122007-25f5ab5f-3f50-4b68-b576-e4d8c7ad8e75.png" width="50"> **CODING STATS** <img src="https://user-images.githubusercontent.com/74038190/216122007-25f5ab5f-3f50-4b68-b576-e4d8c7ad8e75.png" width="50">
-
-</div>
+<!-- HOLOGRAPHIC SKILLS SHOWCASE -->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **PROGRAMMING LANGUAGES**
 
 <div align="center">
   
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,c,html,css,php,go&theme=dark&perline=10" />
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br>JavaScript
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br>TypeScript  
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br>Java
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br>Python
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<br>C++
+</td>
+</tr>
+</table>
+
+</div>
+
+### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"> **FRAMEWORKS & LIBRARIES**
+
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue,angular,django,flask,spring,tailwind&theme=dark&perline=10" />
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br>React
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Next.js" width="65" height="65" />
+<br>Next.js
+</td>
+<td align="center" width="100">
+<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" width="65" height="65" />
+<br>Node.js
+</td>
+<td align="center" width="100">
+<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" width="65" height="65" />
+<br>Express
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+<br>Django
+</td>
+</tr>
+</table>
+
+</div>
+
+### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"> **DATABASES & CLOUD**
+
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,aws,gcp,docker,kubernetes,supabase&theme=dark&perline=10" />
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<br>AWS
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br>Docker
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+<br>Kubernetes
+</td>
+<td align="center" width="100">
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" width="65" height="65" />
+<br>MongoDB
+</td>
+<td align="center" width="100">
+<img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width="65" height="65" />
+<br>PostgreSQL
+</td>
+</tr>
+</table>
+
+</div>
+
+### <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50"> **TOOLS & PLATFORMS**
+
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,postman,linux,vim,bash,jenkins&theme=dark&perline=10" />
+
+</div>
+
+<!-- CYBERPUNK SEPARATOR -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
+
+<!-- SOCIAL MATRIX CONNECTIONS -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **🌐 NEURAL NETWORK CONNECTIONS 🌐** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=ESTABLISHING+CONNECTIONS...;NETWORK+STATUS%3A+ONLINE+%E2%9C%85;READY+FOR+COLLABORATION!" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/praveen-somasundaram2005/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2&logoWidth=30" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/yourusername">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&logoWidth=30" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
+  <img src="https://img.shields.io/badge/Naukri-4A90E2?style=for-the-badge&logoColor=white&color=4A90E2&logoWidth=30" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&color=FF5722&logoWidth=30" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:praveensomasundaram2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836&logoWidth=30" height="40" />
+</a>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200" />
+
+</div>
+
+<!-- EPIC GITHUB STATS SECTION -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"/>
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> **📊 NEURAL NETWORK ANALYTICS 📊** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=SCANNING+NEURAL+PATHWAYS...;ANALYZING+CODE+PATTERNS...;CALCULATING+QUANTUM+STATISTICS...;DATA+ANALYSIS+COMPLETE!+%E2%9C%85" />
+
+</div>
+
+<div align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=som14062005&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&custom_title=🔥%20NEURAL%20CORE%20STATISTICS%20🔥&icon_color=00ff41&title_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=som14062005&layout=compact&theme=synthwave&hide_border=true&custom_title=💻%20QUANTUM%20LANGUAGE%20MATRIX%20💻&title_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.demolab.com?user=som14062005&theme=synthwave-purple&hide_border=true&ring=ff6b35&fire=ff6b35&currStreakLabel=00ff41&background=0d1117&stroke=ffffff&currStreakNum=ff6b35&sideNums=00ff41&sideLabels=ffffff&dates=888888" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=som14062005&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=7" />
+</div>
+
+<!-- HOLOGRAPHIC ACTIVITY GRAPH -->
+<div align="center">
+
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **QUANTUM ACTIVITY MATRIX** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=som14062005&custom_title=🌀%20PRAVEEN'S%20QUANTUM%20CONTRIBUTION%20MATRIX%20🌀&bg_color=0d1117&color=ff6b35&line=00ff41&point=ff0080&area=true&hide_border=true&theme=react-dark" width="100%"/>
+
+</div>
+
+<!-- LEGENDARY CONTRIBUTION SNAKE -->
+<div align="center">
+
+### <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50"> **🐍 LEGENDARY CONTRIBUTION SERPENT 🐍** <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake.svg">
+  <img alt="🐍 Contribution Snake eating my contributions!" src="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake.svg">
+</picture>
+
+</div>
+
+<!-- FUTURISTIC CODING STATS -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png"/>
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> **⚡ REAL-TIME CODING MATRIX ⚡** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=som14062005&theme=tokyonight&hide_border=true&custom_title=⏰%20Weekly%20Coding%20Time%20⏰" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=som14062005&theme=synthwave&hide_border=true&custom_title=⏰%20NEURAL%20CODING%20TIME%20ANALYSIS%20⏰&layout=compact&bg_color=0d1117&title_color=ff6b35&text_color=ffffff" />
 </div>
 
----
+<!-- SPOTIFY HOLOGRAM -->
+<div align="center">
+
+### <img src="https://media.giphy.com/media/3oriO13KTkzPwTykp2/giphy.gif" width="50"> **🎵 NEURAL AUDIO FREQUENCY 🎵** <img src="https://media.giphy.com/media/3oriO13KTkzPwTykp2/giphy.gif" width="50">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31l26fakr6kz3ybkuu7tqjhkhjri&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=ff6b35&bar_color_cover=true)](https://open.spotify.com/user/31l26fakr6kz3ybkuu7tqjhkhjri)
+
+</div>
+
+<!-- ACHIEVEMENTS HOLOGRAM -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **🏆 QUANTUM ACHIEVEMENTS UNLOCKED 🏆** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=ACHIEVEMENT+SYSTEM+LOADING...;SCANNING+ACCOMPLISHMENTS...;LEGENDARY+STATUS+CONFIRMED!+%F0%9F%8F%86" />
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### **🚀 2024 MISSION PROGRESS:**
+
+- [x] **Master React Mastery** ⚛️ `100%`
+- [x] **Node.js Domination** 🟢 `100%`  
+- [ ] **Build 15+ Epic Projects** 🛠️ `73% (11/15)`
+- [ ] **Open Source Contributions** 🌍 `60% (3/5)`
+- [ ] **AWS Certification** ☁️ `80%`
+- [ ] **Launch SaaS Empire** 🚀 `45%`
+- [ ] **AI/ML Mastery** 🤖 `65%`
+- [ ] **10K+ GitHub Stars** ⭐ `In Progress`
+
+</td>
+<td width="50%">
+
+### **💯 LEGENDARY STATS:**
+
+```
+🔥 STREAK DAYS:        [████████] 180+ Days
+⚡ COMMITS:           [██████████] 1000+ 
+🌟 REPOSITORIES:      [████████] 50+
+💻 LANGUAGES:         [██████████] 12+
+🛠️ FRAMEWORKS:        [████████] 20+
+☁️ CLOUD PLATFORMS:    [██████] 8+
+🎯 PROBLEM SOLVING:   [██████████] Expert
+🚀 INNOVATION:        [██████████] Legendary
+```
+
+</td>
+</tr>
+</table>
+
+<!-- INTERACTIVE ELEMENTS SECTION -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png"/>
 
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-be1d-95ff3b3f0dc0.png" width="50"> **ACHIEVEMENTS & CERTIFICATIONS** <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-be1d-95ff3b3f0dc0.png" width="50">
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **🎮 INTERACTIVE NEURAL INTERFACE 🎮** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 
 </div>
 
 <div align="center">
 
-🏆 **2024 Goals Progress:**
-- [x] Master React.js ⚛️
-- [x] Learn Node.js & Express 🟢  
-- [ ] Build 10+ Projects (7/10) 🛠️
-- [ ] Contribute to 5+ Open Source Projects (3/5) 🌍
-- [ ] Get Cloud Certification ☁️
-- [ ] Launch SaaS Product 🚀
+### **💫 RANDOM DEV WISDOM GENERATOR 💫**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=ff6b35&author_color=00ff41&bg_color=0d1117" />
 
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122000-6c7ffc1f-e0cb-4c86-a949-35d0a4a15084.png" width="50"> **RANDOM DEV QUOTE** <img src="https://user-images.githubusercontent.com/74038190/216122000-6c7ffc1f-e0cb-4c86-a949-35d0a4a15084.png" width="50">
-
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c89-4fb7-bb0f-6ad11d23a2cb.png" width="50"> **SPOTIFY NOW PLAYING** <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c89-4fb7-bb0f-6ad11d23a2cb.png" width="50">
-
-</div>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26fakr6kz3ybkuu7tqjhkhjri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216121935-25552e0c-8b52-4011-9e66-ce8b5de7e7b6.png" width="50"> **VISITOR ANALYTICS** <img src="https://user-images.githubusercontent.com/74038190/216121935-25552e0c-8b52-4011-9e66-ce8b5de7e7b6.png" width="50">
-
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/som14062005/count.svg" />
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=som14062005&icon=5&color=6" />
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-be1d-95ff3b3f0dc0.png" width="50"> **LATEST BLOG POSTS** <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-be1d-95ff3b3f0dc0.png" width="50">
-
-</div>
-
+### **📖 LATEST BLOG TRANSMISSIONS 📖**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### **🎯 SUPPORT THE NEURAL NETWORK 🎯**
+
+<a href="https://www.buymeacoffee.com/som14062005">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50" />
+</a>
+&nbsp;&nbsp;
+<a href="https://paypal.me/som14062005">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" />
+</a>
+&nbsp;&nbsp;
+<a href="https://ko-fi.com/som14062005">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" />
+</a>
+
+</div>
+
+<!-- VISITOR ANALYTICS MATRIX -->
+<div align="center">
+
+### **📈 NEURAL TRAFFIC ANALYSIS 📈**
+
+<img src="https://profile-counter.glitch.me/som14062005/count.svg" />
+<img src="https://visitcount.itsvg.in/api?id=som14062005&icon=5&color=12" />
+<img src="https://komarev.com/ghpvc/?username=som14062005&color=ff6b35&style=for-the-badge&label=NEURAL+VISITORS" />
+
+<br><br>
+
+### **🌍 GLOBAL IMPACT MAP 🌍**
+<img src="https://github.com/som14062005/som14062005/blob/output/generated/world-map.svg" alt="World Map" />
+
+</div>
+
+<!-- EPIC FINALE -->
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" />
+
+## **💫 TRANSMISSION ENDING 💫**
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=1000&lines=THANK+YOU+FOR+ENTERING+MY+MATRIX;LET'S+BUILD+THE+FUTURE+TOGETHER!;READY+TO+CHANGE+THE+WORLD%3F;CONTACT+INITIATED...+%F0%9F%9A%80" />
+
+### ✨ **"In a world of algorithms, be the exception that breaks the code"** ✨
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+
+### **⭐ STAR MY REPOSITORIES TO JOIN THE RESISTANCE ⭐**
+
+</div>
+
+<!-- MATRIX FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=matrix&color=00ff41&height=100&section=footer&text=EXIT%20SUCCESSFUL&fontSize=20&animation=blinking" />
+
 ---
 
 <div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"> **SUPPORT MY WORK** <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50">
-
-</div>
-
-<div align="center">
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/som14062005)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/som14062005)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/som14062005)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
-  <br><br>
-  
-  ## ✨ **"Code is poetry written in logic"** ✨
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🌟;Let's+build+amazing+things+together!+🚀;Feel+free+to+reach+out+anytime!+💬" alt="Typing SVG" />
-  
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-**⭐ Don't forget to star my repositories if you find them interesting! ⭐**
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+  <b>🌟 FROM THE NEURAL CORE OF <a href="https://github.com/som14062005">PRAVEEN SOMASUNDARAM</a> 🌟</b>
 </div>
