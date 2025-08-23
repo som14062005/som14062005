@@ -1,3 +1,63 @@
+<div align="center">
+
+<!-- Animated Header with Particles -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PRAVEEN%20SOMASUNDARAM&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+</div>
+
+<!-- Holographic Name Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&background=FF000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=⚡+FULL+STACK+WIZARD+⚡;🚀+CODE+ARCHITECT+🚀;💎+DIGITAL+INNOVATOR+💎" alt="Holographic Title"/>
+</h1>
+
+<!-- Matrix Rain Effect Header -->
+<div align="center">
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="600" height="300"/>
+</div>
+
+<!-- Neon Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- 3D Floating Profile Section -->
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🌌 DIGITAL IDENTITY
+
+css
+.developer {
+  name: "Praveen Somasundaram";
+  location: "Chennai, Tamil Nadu 🇮🇳";
+  current_mission: "Building the Future";
+  superpower: "Turning Coffee into Code";
+  level: "Engineering Student++";
+  experience_points: "Loading...";
+  favorite_bug: "It's not a bug, it's a feature";
+}
+
+.stats {
+  languages_spoken: ["Java", "JavaScript", "React", "Node.js"];
+  daily_routine: ["Code", "Debug", "Coffee", "Repeat"];
+  dream: "To revolutionize the digital world";
+}
+
+
+</td>
+<td align="center" width="50%">
+
+<!-- 3D Avatar -->
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+
+### ⚡ CURRENT QUESTS
+- 🎯 *Mastering DSA* - Solving algorithms like a ninja
+- 🌐 *Web Development* - Crafting digital experiences  
+- 🚀 *Full-Stack Journey* - Building end-to-end solutions
+- 🧠 *AI Exploration* - Diving into the future
+
+</td>
+</tr>
+</table>
 
 
 <!-- ANIMATED SEPARATOR -->
