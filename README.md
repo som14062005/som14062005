@@ -135,7 +135,7 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,c,html,css,php,go&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,c,html,css,&theme=dark&perline=10" />
 
 <table>
 <tr>
@@ -148,11 +148,11 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 <br>TypeScript  
 </td>
 <td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg"alt="Java" width="65" height="65" />
 <br>Java
 </td>
 <td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg"alt="Python" width="65" height="65" />
 <br>Python
 </td>
 </tr>
@@ -164,7 +164,7 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue,angular,django,flask,spring,tailwind&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark&perline=10" />
 
 <table>
 <tr>
@@ -193,7 +193,7 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,aws,gcp,docker,kubernetes,supabase&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,aws&theme=dark&perline=10" />
 
 <table>
 <tr>
@@ -311,119 +311,19 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 <!-- FUTURISTIC CODING STATS -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png"/>
 
-<div align="center">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> **⚡ REAL-TIME CODING MATRIX ⚡** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=som14062005&theme=synthwave&hide_border=true&custom_title=⏰%20NEURAL%20CODING%20TIME%20ANALYSIS%20⏰&layout=compact&bg_color=0d1117&title_color=ff6b35&text_color=ffffff" />
-</div>
-
-<!-- SPOTIFY HOLOGRAM -->
-<div align="center">
-
-### <img src="https://media.giphy.com/media/3oriO13KTkzPwTykp2/giphy.gif" width="50"> **🎵 NEURAL AUDIO FREQUENCY 🎵** <img src="https://media.giphy.com/media/3oriO13KTkzPwTykp2/giphy.gif" width="50">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31l26fakr6kz3ybkuu7tqjhkhjri&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=ff6b35&bar_color_cover=true)](https://open.spotify.com/user/31l26fakr6kz3ybkuu7tqjhkhjri)
-
-</div>
-
-<!-- ACHIEVEMENTS HOLOGRAM -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **🏆 QUANTUM ACHIEVEMENTS UNLOCKED 🏆** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=ACHIEVEMENT+SYSTEM+LOADING...;SCANNING+ACCOMPLISHMENTS...;LEGENDARY+STATUS+CONFIRMED!+%F0%9F%8F%86" />
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### **🚀 2024 MISSION PROGRESS:**
-
-- [x] **Master React Mastery** ⚛️ `100%`
-- [x] **Node.js Domination** 🟢 `100%`  
-- [ ] **Build 15+ Epic Projects** 🛠️ `73% (11/15)`
-- [ ] **Open Source Contributions** 🌍 `60% (3/5)`
-- [ ] **AWS Certification** ☁️ `80%`
-- [ ] **Launch SaaS Empire** 🚀 `45%`
-- [ ] **AI/ML Mastery** 🤖 `65%`
-- [ ] **10K+ GitHub Stars** ⭐ `In Progress`
-
-</td>
-<td width="50%">
-
-### **💯 LEGENDARY STATS:**
-
-```
-🔥 STREAK DAYS:        [████████] 180+ Days
-⚡ COMMITS:           [██████████] 1000+ 
-🌟 REPOSITORIES:      [████████] 50+
-💻 LANGUAGES:         [██████████] 12+
-🛠️ FRAMEWORKS:        [████████] 20+
-☁️ CLOUD PLATFORMS:    [██████] 8+
-🎯 PROBLEM SOLVING:   [██████████] Expert
-🚀 INNOVATION:        [██████████] Legendary
-```
-
-</td>
-</tr>
-</table>
 
 <!-- INTERACTIVE ELEMENTS SECTION -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png"/>
 
-<div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **🎮 INTERACTIVE NEURAL INTERFACE 🎮** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-
-</div>
 
 <div align="center">
 
 ### **💫 RANDOM DEV WISDOM GENERATOR 💫**
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=ff6b35&author_color=00ff41&bg_color=0d1117" />
-
-### **📖 LATEST BLOG TRANSMISSIONS 📖**
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-### **🎯 SUPPORT THE NEURAL NETWORK 🎯**
-
-<a href="https://www.buymeacoffee.com/som14062005">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50" />
-</a>
-&nbsp;&nbsp;
-<a href="https://paypal.me/som14062005">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" />
-</a>
-&nbsp;&nbsp;
-<a href="https://ko-fi.com/som14062005">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" />
-</a>
-
-</div>
-
-<!-- VISITOR ANALYTICS MATRIX -->
-<div align="center">
-
-### **📈 NEURAL TRAFFIC ANALYSIS 📈**
-
-<img src="https://profile-counter.glitch.me/som14062005/count.svg" />
-<img src="https://visitcount.itsvg.in/api?id=som14062005&icon=5&color=12" />
-<img src="https://komarev.com/ghpvc/?username=som14062005&color=ff6b35&style=for-the-badge&label=NEURAL+VISITORS" />
-
-<br><br>
-
-### **🌍 GLOBAL IMPACT MAP 🌍**
-<img src="https://github.com/som14062005/som14062005/blob/output/generated/world-map.svg" alt="World Map" />
 
 </div>
 
