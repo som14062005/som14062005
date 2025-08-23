@@ -7,7 +7,7 @@
 
 <!-- Holographic Name Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&background=FF000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=⚡+TECH+ ENTHUSIAST+⚡" alt="Holographic Title"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&background=FF000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=⚡+TECH+_ENTHUSIAST+⚡" alt="Holographic Title"/>
 </h1>
 
 <!-- Matrix Rain Effect Header -->
