@@ -1,580 +1,204 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Praveen Somasundaram - 3D Profile</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hi there! It's me **Praveen Somasundaram** 
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            overflow-x: hidden;
-            min-height: 100vh;
-            position: relative;
-        }
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Praveen+Somasundaram;Emerging+Tech+Enthusiast+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Engineering+Student+%F0%9F%8E%93;Always+Learning+New+Things+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-        /* Animated Background Particles */
-        .particles {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: -1;
-            overflow: hidden;
-        }
+</div>
 
-        .particle {
-            position: absolute;
-            background: rgba(255, 255, 255, 0.8);
-            border-radius: 50%;
-            animation: float 6s ease-in-out infinite;
-        }
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Universe!&fontSize=42&fontAlignY=25&desc=Where%20Code%20Meets%20Creativity&descAlignY=51&descAlign=50&animation=twinkling"/>
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0px) rotate(0deg); }
-            33% { transform: translateY(-30px) rotate(120deg); }
-            66% { transform: translateY(-60px) rotate(240deg); }
-        }
+---
 
-        /* Hero Section */
-        .hero {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            min-height: 100vh;
-            text-align: center;
-            padding: 2rem;
-            position: relative;
-        }
+<div align="center">
+  
+## 🌟 **ABOUT ME** 🌟
 
-        .hero-title {
-            font-size: 4rem;
-            font-weight: 900;
-            margin-bottom: 1rem;
-            background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4);
-            background-size: 400% 400%;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            animation: gradientShift 3s ease-in-out infinite;
-            transform: perspective(1000px) rotateX(15deg);
-            text-shadow: 0 20px 40px rgba(0,0,0,0.3);
-        }
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-        @keyframes gradientShift {
-            0%, 100% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-        }
+</div>
 
-        .hero-subtitle {
-            font-size: 1.5rem;
-            margin-bottom: 2rem;
-            opacity: 0.9;
-            animation: slideUp 1s ease-out 0.5s both;
-        }
+🔭 **Currently Working On:** Building amazing web applications & exploring AI/ML  
+🌱 **Learning Journey:** DSA in Java, Advanced Web Development & Cloud Technologies  
+🎯 **Goals 2024:** Master Full-Stack Development & Contribute to Open Source  
+🏢 **Education:** Engineering Student @ Rajalakshmi Engineering College, Thandalam  
+⚡ **Fun Fact:** I can debug code faster than I can solve a Rubik's cube!  
+🎮 **Hobbies:** Coding, Gaming, Tech Blogging & Photography  
 
-        @keyframes slideUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 0.9;
-                transform: translateY(0);
-            }
-        }
+---
 
-        /* 3D Card Container */
-        .card-container {
-            perspective: 1000px;
-            margin: 4rem auto;
-            max-width: 1200px;
-            padding: 0 2rem;
-        }
+<div align="center">
 
-        .profile-card {
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(20px);
-            border-radius: 30px;
-            padding: 3rem;
-            transform-style: preserve-3d;
-            transition: transform 0.6s ease;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            box-shadow: 0 40px 80px rgba(0, 0, 0, 0.3);
-            animation: cardFloat 4s ease-in-out infinite;
-        }
+## 🌈 **MY TECH UNIVERSE** 🌈
 
-        @keyframes cardFloat {
-            0%, 100% { transform: translateY(0px) rotateY(0deg); }
-            25% { transform: translateY(-10px) rotateY(2deg); }
-            50% { transform: translateY(-15px) rotateY(0deg); }
-            75% { transform: translateY(-10px) rotateY(-2deg); }
-        }
+</div>
 
-        .profile-card:hover {
-            transform: rotateX(5deg) rotateY(5deg) translateZ(20px);
-        }
+### 💻 **Languages & Frameworks**
+<div align="center">
 
-        /* Skills Section */
-        .skills-section {
-            margin: 3rem 0;
-        }
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-        .section-title {
-            font-size: 2.5rem;
-            text-align: center;
-            margin-bottom: 2rem;
-            background: linear-gradient(45deg, #ffd700, #ff8c00);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            animation: pulse 2s ease-in-out infinite;
-        }
+</div>
 
-        @keyframes pulse {
-            0%, 100% { transform: scale(1); }
-            50% { transform: scale(1.05); }
-        }
+### 🛠️ **Tools & Technologies**
+<div align="center">
 
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 2rem;
-            margin: 2rem 0;
-        }
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-        .skill-item {
-            background: rgba(255, 255, 255, 0.1);
-            padding: 1.5rem;
-            border-radius: 20px;
-            text-align: center;
-            transform: translateZ(0);
-            transition: all 0.3s ease;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            position: relative;
-            overflow: hidden;
-        }
+</div>
 
-        .skill-item::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent);
-            transform: rotate(45deg);
-            transition: all 0.5s ease;
-            opacity: 0;
-        }
+### 🗄️ **Databases**
+<div align="center">
 
-        .skill-item:hover::before {
-            opacity: 1;
-            animation: shine 0.5s ease;
-        }
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-        @keyframes shine {
-            0% { transform: translateX(-100%) translateY(-100%) rotate(45deg); }
-            100% { transform: translateX(100%) translateY(100%) rotate(45deg); }
-        }
+</div>
 
-        .skill-item:hover {
-            transform: translateY(-10px) rotateX(10deg);
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
-            background: rgba(255, 255, 255, 0.15);
-        }
+---
 
-        .skill-icon {
-            font-size: 3rem;
-            margin-bottom: 1rem;
-            animation: bounce 2s ease-in-out infinite;
-        }
+<div align="center">
 
-        @keyframes bounce {
-            0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-            40% { transform: translateY(-10px); }
-            60% { transform: translateY(-5px); }
-        }
+## 🚀 **CONNECT WITH ME** 🚀
 
-        /* Social Links */
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 2rem;
-            margin: 3rem 0;
-            flex-wrap: wrap;
-        }
+<a href="https://www.linkedin.com/in/praveen-somasundaram2005/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/yourusername">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
+  <img src="https://img.shields.io/badge/Naukri-4A90E2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+</a>
 
-        .social-link {
-            display: inline-block;
-            padding: 1rem 2rem;
-            background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
-            color: white;
-            text-decoration: none;
-            border-radius: 50px;
-            font-weight: bold;
-            transition: all 0.3s ease;
-            transform: translateZ(0);
-            position: relative;
-            overflow: hidden;
-        }
+</div>
 
-        .social-link::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
-            transition: all 0.5s ease;
-        }
+---
 
-        .social-link:hover::before {
-            left: 100%;
-        }
+<div align="center">
 
-        .social-link:hover {
-            transform: translateY(-5px) scale(1.05);
-            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
-        }
+## 📊 **GITHUB ANALYTICS** 📊
 
-        /* Contribution Graph Styling */
-        .contribution-section {
-            margin: 4rem 0;
-            text-align: center;
-        }
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=som14062005&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=som14062005&layout=compact&theme=radical&hide_border=true"/>
 
-        .contribution-graph {
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 20px;
-            padding: 2rem;
-            margin: 2rem 0;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            animation: slideInUp 1s ease-out;
-        }
+</div>
 
-        @keyframes slideInUp {
-            from {
-                opacity: 0;
-                transform: translateY(50px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=som14062005&theme=radical&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)](https://git.io/streak-stats)
 
-        .contribution-graph img {
-            max-width: 100%;
-            border-radius: 10px;
-            filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.3));
-        }
+</div>
 
-        /* Snake Animation Container */
-        .snake-container {
-            margin: 3rem 0;
-            text-align: center;
-            background: rgba(0, 0, 0, 0.2);
-            border-radius: 20px;
-            padding: 2rem;
-            backdrop-filter: blur(10px);
-        }
+---
 
-        .snake-container img {
-            max-width: 100%;
-            border-radius: 15px;
-        }
+<div align="center">
 
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            .hero-title {
-                font-size: 2.5rem;
-            }
-            
-            .profile-card {
-                margin: 2rem 1rem;
-                padding: 2rem;
-            }
-            
-            .skills-grid {
-                grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-                gap: 1rem;
-            }
-            
-            .social-links {
-                gap: 1rem;
-            }
-        }
+## 🏆 **GITHUB TROPHIES** 🏆
 
-        /* Loading Animation */
-        .loading-overlay {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            z-index: 1000;
-            animation: fadeOut 2s ease-in-out 1s both;
-        }
+[![trophy](https://github-profile-trophy.vercel.app/?username=som14062005&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-        @keyframes fadeOut {
-            to {
-                opacity: 0;
-                visibility: hidden;
-            }
-        }
+</div>
 
-        .loading-spinner {
-            width: 80px;
-            height: 80px;
-            border: 4px solid rgba(255, 255, 255, 0.3);
-            border-top: 4px solid #fff;
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-        }
+---
 
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
+<div align="center">
 
-        /* Scroll indicator */
-        .scroll-indicator {
-            position: absolute;
-            bottom: 2rem;
-            left: 50%;
-            transform: translateX(-50%);
-            animation: scrollBounce 2s ease-in-out infinite;
-        }
+## 📈 **CONTRIBUTION GRAPH** 📈
 
-        @keyframes scrollBounce {
-            0%, 20%, 50%, 80%, 100% { transform: translateX(-50%) translateY(0); }
-            40% { transform: translateX(-50%) translateY(-10px); }
-            60% { transform: translateX(-50%) translateY(-5px); }
-        }
-    </style>
-</head>
-<body>
-    <!-- Loading Screen -->
-    <div class="loading-overlay">
-        <div class="loading-spinner"></div>
-    </div>
+<img src="https://ghchart.rshah.org/5e60ce/som14062005" alt="Praveen's GitHub Contribution Graph" width="100%"/>
 
-    <!-- Animated Background Particles -->
-    <div class="particles" id="particles"></div>
+</div>
 
-    <!-- Hero Section -->
-    <section class="hero">
-        <h1 class="hero-title">Hi there 👋 It's me<br>Praveen Somasundaram</h1>
-        <p class="hero-subtitle">🚀 Emerging Tech Enthusiast & Engineering Student</p>
-        <div class="scroll-indicator">
-            <div style="font-size: 2rem; animation: bounce 2s ease-in-out infinite;">⬇️</div>
-        </div>
-    </section>
+---
 
-    <!-- Main Content -->
-    <div class="card-container">
-        <div class="profile-card">
-            <!-- About Section -->
-            <div style="text-align: center; margin-bottom: 3rem;">
-                <h2 style="font-size: 2rem; margin-bottom: 1rem; color: #ffd700;">🛠️ About Me</h2>
-                <p style="font-size: 1.2rem; line-height: 1.8; opacity: 0.9;">
-                    🧠 Currently learning DSA in Java, Web Development and Exploring Other Domains<br>
-                    🏢 Engineering Student At Rajalakshmi Engineering College, Thandalam
-                </p>
-            </div>
+<div align="center">
 
-            <!-- Social Links -->
-            <h2 class="section-title">📡 Connect With Me</h2>
-            <div class="social-links">
-                <a href="https://www.linkedin.com/in/praveen-somasundaram2005/" class="social-link" target="_blank">
-                    LinkedIn 💼
-                </a>
-                <a href="https://instagram.com/yourusername" class="social-link" target="_blank">
-                    Instagram 📸
-                </a>
-                <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" class="social-link" target="_blank">
-                    Naukri 🎯
-                </a>
-                <a href="#" class="social-link" target="_blank">
-                    Portfolio 🌐
-                </a>
-            </div>
+## 🐍 **CONTRIBUTION SNAKE** 🐍
 
-            <!-- Skills Section -->
-            <div class="skills-section">
-                <h2 class="section-title">💻 I Code In</h2>
-                <div class="skills-grid">
-                    <div class="skill-item">
-                        <div class="skill-icon">🟨</div>
-                        <h3>JavaScript</h3>
-                    </div>
-                    <div class="skill-item">
-                        <div class="skill-icon">⚛️</div>
-                        <h3>React</h3>
-                    </div>
-                    <div class="skill-item">
-                        <div class="skill-icon">🟢</div>
-                        <h3>Node.js</h3>
-                    </div>
-                    <div class="skill-item">
-                        <div class="skill-icon">🌐</div>
-                        <h3>HTML5</h3>
-                    </div>
-                    <div class="skill-item">
-                        <div class="skill-icon">🎨</div>
-                        <h3>CSS3</h3>
-                    </div>
-                    <div class="skill-item">
-                        <div class="skill-icon">☕</div>
-                        <h3>Java</h3>
-                    </div>
-                </div>
-            </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake.svg">
+</picture>
 
-            <!-- Tools Section -->
-            <div class="skills-section">
-                <h2 class="section-title">🛠️ Tools & Technologies</h2>
-                <div class="skills-grid">
-                    <div class="skill-item">
-                        <div class="skill-icon">🎯</div>
-                        <h3>Figma</h3>
-                    </div>
-                    <div class="skill-item">
-                        <div class="skill-icon">📮</div>
-                        <h3>Postman</h3>
-                    </div>
-                    <div class="skill-item">
-                        <div class="skill-icon">💻</div>
-                        <h3>VS Code</h3>
-                    </div>
-                    <div class="skill-item">
-                        <div class="skill-icon">🔧</div>
-                        <h3>Git</h3>
-                    </div>
-                    <div class="skill-item">
-                        <div class="skill-icon">🐘</div>
-                        <h3>PostgreSQL</h3>
-                    </div>
-                    <div class="skill-item">
-                        <div class="skill-icon">🔥</div>
-                        <h3>Firebase</h3>
-                    </div>
-                    <div class="skill-item">
-                        <div class="skill-icon">🍃</div>
-                        <h3>MongoDB</h3>
-                    </div>
-                    <div class="skill-item">
-                        <div class="skill-icon">📊</div>
-                        <h3>Jupyter</h3>
-                    </div>
-                </div>
-            </div>
+</div>
 
-            <!-- GitHub Stats -->
-            <div class="contribution-section">
-                <h2 class="section-title">📊 GitHub Activity</h2>
-                <div class="contribution-graph">
-                    <img src="https://ghchart.rshah.org/5e60ce/som14062005" alt="GitHub Contribution Graph" style="max-width: 100%; border-radius: 10px;" />
-                </div>
-            </div>
+---
 
-            <!-- GitHub Snake -->
-            <div class="snake-container">
-                <h2 class="section-title">🐍 Contribution Snake</h2>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake.svg" />
-                    <img alt="github-snake" src="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake.svg" style="max-width: 100%;" />
-                </picture>
-            </div>
-        </div>
-    </div>
+<div align="center">
 
-    <script>
-        // Create floating particles
-        function createParticles() {
-            const particlesContainer = document.getElementById('particles');
-            const particleCount = 50;
+## 💡 **RANDOM DEV QUOTE** 💡
 
-            for (let i = 0; i < particleCount; i++) {
-                const particle = document.createElement('div');
-                particle.className = 'particle';
-                
-                const size = Math.random() * 4 + 1;
-                particle.style.width = size + 'px';
-                particle.style.height = size + 'px';
-                particle.style.left = Math.random() * 100 + '%';
-                particle.style.top = Math.random() * 100 + '%';
-                particle.style.animationDelay = Math.random() * 6 + 's';
-                particle.style.animationDuration = (Math.random() * 3 + 4) + 's';
-                
-                particlesContainer.appendChild(particle);
-            }
-        }
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-        // Mouse movement parallax effect
-        document.addEventListener('mousemove', (e) => {
-            const mouseX = e.clientX / window.innerWidth;
-            const mouseY = e.clientY / window.innerHeight;
-            
-            const cards = document.querySelectorAll('.profile-card, .skill-item');
-            cards.forEach((card, index) => {
-                const speed = (index + 1) * 0.5;
-                const x = (mouseX - 0.5) * speed;
-                const y = (mouseY - 0.5) * speed;
-                card.style.transform += ` translate3d(${x}px, ${y}px, 0)`;
-            });
-        });
+</div>
 
-        // Intersection Observer for animations
-        const observerOptions = {
-            threshold: 0.1,
-            rootMargin: '0px 0px -50px 0px'
-        };
+---
 
-        const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    entry.target.style.animation = 'slideInUp 0.8s ease-out both';
-                }
-            });
-        }, observerOptions);
+<div align="center">
 
-        // Initialize
-        document.addEventListener('DOMContentLoaded', () => {
-            createParticles();
-            
-            // Observe skill items for scroll animations
-            document.querySelectorAll('.skill-item, .contribution-graph, .snake-container').forEach(el => {
-                observer.observe(el);
-            });
-        });
+## 🔥 **MY CODING ACTIVITY** 🔥
 
-        // Smooth scrolling
-        document.addEventListener('click', (e) => {
-            if (e.target.closest('.scroll-indicator')) {
-                window.scrollTo({
-                    top: window.innerHeight,
-                    behavior: 'smooth'
-                });
-            }
-        });
-    </script>
-</body>
-</html>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **CURRENT GOALS** 🎯
+
+```javascript
+const praveen = {
+    currentlyLearning: ["DSA in Java", "Advanced React", "Cloud Computing"],
+    goals2024: ["Master Full-Stack Development", "Contribute to Open Source", "Build SaaS Product"],
+    funFact: "I can debug faster than I can solve a Rubik's cube! 🧩",
+    askMeAbout: ["Web Dev", "Java", "JavaScript", "React", "Node.js"],
+    reachMeAt: "praveensomasundaram2005@gmail.com"
+};
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 **VISITOR COUNT** 🌟
+
+<img src="https://profile-counter.glitch.me/som14062005/count.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *"Code is poetry written in logic"* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+**⭐ FROM [Praveen Somasundaram](https://github.com/som14062005) ⭐**
+
+</div>
