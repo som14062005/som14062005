@@ -7,7 +7,7 @@
 
 <!-- Holographic Name Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&background=FF000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=⚡+FULL+STACK+WIZARD+⚡;🚀+CODE+ARCHITECT+🚀;💎+DIGITAL+INNOVATOR+💎" alt="Holographic Title"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&background=FF000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=⚡+TECH+ENTHUSIAST+⚡" alt="Holographic Title"/>
 </h1>
 
 <!-- Matrix Rain Effect Header -->
@@ -22,32 +22,6 @@
 <table align="center">
 <tr>
 <td align="center" width="50%">
-
-### 🌌 DIGITAL IDENTITY
-
-css
-.developer {
-  name: "Praveen Somasundaram";
-  location: "Chennai, Tamil Nadu 🇮🇳";
-  current_mission: "Building the Future";
-  superpower: "Turning Coffee into Code";
-  level: "Engineering Student++";
-  experience_points: "Loading...";
-  favorite_bug: "It's not a bug, it's a feature";
-}
-
-.stats {
-  languages_spoken: ["Java", "JavaScript", "React", "Node.js"];
-  daily_routine: ["Code", "Debug", "Coffee", "Repeat"];
-  dream: "To revolutionize the digital world";
-}
-
-
-</td>
-<td align="center" width="50%">
-
-<!-- 3D Avatar -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
 ### ⚡ CURRENT QUESTS
 - 🎯 *Mastering DSA* - Solving algorithms like a ninja
@@ -79,7 +53,6 @@ css
 
 <table align="center">
 <tr>
-<td width="50%">
 
 ```javascript
 class UltimateDeveloper {
@@ -143,27 +116,6 @@ praveen.buildTheFuture();
 console.log("🌟 Welcome to my digital universe! 🌟");
 ```
 
-</td>
-<td width="50%">
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-  <br><br>
-  
-  **🎮 CURRENT STATUS:**
-  
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1500&pause=800&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=300&lines=ONLINE+%E2%9C%85;CODING+%F0%9F%92%BB;LEARNING+%F0%9F%A7%A0;BUILDING+%F0%9F%9A%80;INNOVATING+%F0%9F%92%A1;CONQUERING+%F0%9F%8F%86" />
-  
-  **⚡ POWER LEVEL: OVER 9000! ⚡**
-  
-  ![Power Level](https://progress-bar.dev/99/?scale=100&title=Coding&width=200&color=ff6b35&suffix=%25)
-  ![Power Level](https://progress-bar.dev/95/?scale=100&title=Learning&width=200&color=00ff41&suffix=%25)  
-  ![Power Level](https://progress-bar.dev/88/?scale=100&title=Innovation&width=200&color=00d9ff&suffix=%25)
-  ![Power Level](https://progress-bar.dev/92/?scale=100&title=Problem+Solving&width=200&color=ff0080&suffix=%25)
-  
-</div>
-
-</td>
 </tr>
 </table>
 
@@ -203,10 +155,6 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
 <br>Python
 </td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-<br>C++
-</td>
 </tr>
 </table>
 
@@ -236,10 +184,6 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" width="65" height="65" />
 <br>Express
 </td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-<br>Django
-</td>
 </tr>
 </table>
 
@@ -258,14 +202,6 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 <br>AWS
 </td>
 <td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<br>Docker
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-<br>Kubernetes
-</td>
-<td align="center" width="100">
 <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" width="65" height="65" />
 <br>MongoDB
 </td>
@@ -282,7 +218,7 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,postman,linux,vim,bash,jenkins&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,postman,bash&theme=dark&perline=10" />
 
 </div>
 
