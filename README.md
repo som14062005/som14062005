@@ -23,11 +23,11 @@
 <tr>
 <td align="center" width="50%">
 
-### ⚡ CURRENT QUESTS
-- 🎯 *Mastering DSA* - Solving algorithms like a ninja
-- 🌐 *Web Development* - Crafting digital experiences  
-- 🚀 *Full-Stack Journey* - Building end-to-end solutions
-- 🧠 *AI Exploration* - Diving into the future
+### 👋 About Me
+- 🎯 Learning Data Structures & Algorithms (Java)
+- 🌐 Web Development (MERN & Next.js)
+- ☁ Exploring Cloud & AI/ML
+- 🚀 Passionate about building real-world projects
 
 </td>
 </tr>
@@ -151,10 +151,6 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 <img src="https://techstack-generator.vercel.app/java-icon.svg"alt="Java" width="65" height="65" />
 <br>Java
 </td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/python-icon.svg"alt="Python" width="65" height="65" />
-<br>Python
-</td>
 </tr>
 </table>
 
@@ -168,10 +164,6 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<br>React
-</td>
 <td align="center" width="100">
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Next.js" width="65" height="65" />
 <br>Next.js
@@ -334,23 +326,12 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" />
 
-## **💫 TRANSMISSION ENDING 💫**
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=1000&lines=THANK+YOU+FOR+ENTERING+MY+MATRIX;LET'S+BUILD+THE+FUTURE+TOGETHER!;READY+TO+CHANGE+THE+WORLD%3F;CONTACT+INITIATED...+%F0%9F%9A%80" />
-
 ### ✨ **"In a world of algorithms, be the exception that breaks the code"** ✨
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
 
-### **⭐ STAR MY REPOSITORIES TO JOIN THE RESISTANCE ⭐**
+### **⭐ STAR MY REPOSITORIES ⭐**
 
 </div>
 
-<!-- MATRIX FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=matrix&color=00ff41&height=100&section=footer&text=EXIT%20SUCCESSFUL&fontSize=20&animation=blinking" />
 
----
-
-<div align="center">
-  <b>🌟 FROM THE NEURAL CORE OF <a href="https://github.com/som14062005">PRAVEEN SOMASUNDARAM</a> 🌟</b>
-</div>
