@@ -61,32 +61,20 @@ class UltimateDeveloper {
         this.title = "🌀 Digital Reality Architect";
         this.location = "Chennai, Tamil Nadu 🇮🇳";
         this.education = "Rajalakshmi Engineering College";
-        this.mode = "🔥 BEAST MODE ACTIVATED 🔥";
         
         this.stats = {
             experience: "Rising Superstar 🌟",
             projects_completed: "∞ (Always Building)",
-            coffee_consumed: "9999+ Cups ☕",
-            lines_of_code: "1M+ and counting...",
             bugs_crushed: "∞ (Bug Destroyer)",
             all_nighters: "Too many to count 🌙"
         };
         
         this.current_mission = [
-            "🎯 Mastering DSA in Java",
-            "⚡ Advanced React Sorcery", 
+            "🎯 Learning DSA in Java",
             "☁️ Cloud Computing Domination",
-            "🤖 AI/ML Neural Networks",
-            "🚀 Building SaaS Empire"
+            "🚀 Building Cool Projects To Solve Realworld Problems"
         ];
         
-        this.superpowers = [
-            "⚡ Lightning-fast debugging",
-            "🧠 Infinite learning capacity",
-            "🔮 Future tech prediction", 
-            "💻 Code in matrix dreams",
-            "🚀 Turning ideas into reality"
-        ];
         
         this.life_motto = "Code • Create • Conquer • Repeat";
     }
@@ -127,24 +115,26 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **PROGRAMMING LANGUAGES**
 
 <div align="center">
-  
-<img src="https://skillicons.dev/icons?i=js,ts,java,c,html,css,&theme=dark&perline=10" />
 
+<!-- Skill Icons Row -->
+<img src="https://skillicons.dev/icons?i=js,ts,java,c,html,css&theme=dark&perline=10" />
+
+<!-- Table for Detailed Icons -->
 <table>
-<tr>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<br>JavaScript
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-<br>TypeScript  
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/java-icon.svg"alt="Java" width="65" height="65" />
-<br>Java
-</td>
-</tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -153,7 +143,7 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=react,nestjs,nodejs,express,tailwind&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,tailwind&theme=dark&perline=10" />
 
 <table>
 <tr>
