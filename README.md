@@ -38,16 +38,14 @@
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 <!-- CYBERPUNK LOADING BAR -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=16&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=SYSTEM+INITIALIZING...;LOADING+NEURAL+NETWORKS...;CONNECTING+TO+MAINFRAME...;ACCESS+GRANTED+%E2%9C%85;WELCOME+TO+MY+DIGITAL+UNIVERSE!" />
-</div>
+
 
 <br>
 
 <!-- 3D HOLOGRAPHIC PROFILE CARD -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **NEURAL PROFILE DATA** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **MY PROFILE** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
 
 </div>
 
@@ -124,9 +122,8 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> **⚡ TECH ARSENAL MATRIX ⚡** <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> **⚡TECHNOLOGIES⚡** <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=INITIALIZING+WEAPON+SYSTEMS...;LOADING+TECH+ARSENAL...;ALL+SYSTEMS+OPERATIONAL!+%E2%9C%85" />
 
 </div>
 
@@ -135,7 +132,7 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,c,html,css,&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,c,html,css,&theme=dark&perline=10" />
 
 <table>
 <tr>
@@ -160,13 +157,13 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,nestjs,nodejs,express,tailwind&theme=dark&perline=10" />
 
 <table>
 <tr>
 <td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Next.js" width="65" height="65" />
-<br>Next.js
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nest.js" width="65" height="65" />
+<br>Nest.js
 </td>
 <td align="center" width="100">
 <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" width="65" height="65" />
@@ -220,9 +217,9 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 <!-- SOCIAL MATRIX CONNECTIONS -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **🌐 NEURAL NETWORK CONNECTIONS 🌐** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> **🌐 LET'S CONNECT 🌐** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=ESTABLISHING+CONNECTIONS...;NETWORK+STATUS%3A+ONLINE+%E2%9C%85;READY+FOR+COLLABORATION!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=ESTABLISHING+CONNECTIONS...;READY+FOR+COLLABORATION!" />
 
 <br>
 
@@ -259,6 +256,7 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 
 <div align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=som14062005&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&custom_title=🔥%20CORE%20STATISTICS%20🔥&icon_color=00ff41&title_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+  
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=som14062005&layout=compact&theme=synthwave&hide_border=true&custom_title=💻%20LANGUAGES%20💻&title_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
 </div>
 
