@@ -18,27 +18,29 @@
 <!-- Neon Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+
 <!-- 3D Floating Profile Section -->
 <table align="center">
-<tr>
-<td align="center" width="50%">
-
+  <tr>
+    <td align="center" width="100%">
+      
 ### 👋 About Me
-- 🎯 Learning Data Structures & Algorithms (Java)
-- 🌐 Web Development (MERN & Next.js)
-- ☁ Exploring Cloud & AI/ML
+- 🎯 Learning Data Structures & Algorithms (Java)  
+- 🌐 Backend Development
+- ☁ Exploring Cloud & AI/ML  
 - 🚀 Passionate about building real-world projects
+  
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 
+
 <!-- ANIMATED SEPARATOR -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- CYBERPUNK LOADING BAR -->
-
 
 <br>
 
@@ -113,19 +115,13 @@ const praveen = new UltimateDeveloper();
 praveen.buildTheFuture();
 console.log("🌟 Welcome to my digital universe! 🌟");
 ```
-
 </tr>
 </table>
 
 <!-- ANIMATED TECH STACK MATRIX -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
-<div align="center">
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"> **⚡TECHNOLOGIES⚡** <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
-
-
-</div>
 
 <!-- HOLOGRAPHIC SKILLS SHOWCASE -->
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **PROGRAMMING LANGUAGES**
