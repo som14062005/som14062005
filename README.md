@@ -255,17 +255,11 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 <!-- EPIC GITHUB STATS SECTION -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"/>
 
-<div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> **📊 NEURAL NETWORK ANALYTICS 📊** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=SCANNING+NEURAL+PATHWAYS...;ANALYZING+CODE+PATTERNS...;CALCULATING+QUANTUM+STATISTICS...;DATA+ANALYSIS+COMPLETE!+%E2%9C%85" />
-
-</div>
 
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=som14062005&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&custom_title=🔥%20NEURAL%20CORE%20STATISTICS%20🔥&icon_color=00ff41&title_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=som14062005&layout=compact&theme=synthwave&hide_border=true&custom_title=💻%20QUANTUM%20LANGUAGE%20MATRIX%20💻&title_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=som14062005&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&custom_title=🔥%20CORE%20STATISTICS%20🔥&icon_color=00ff41&title_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=som14062005&layout=compact&theme=synthwave&hide_border=true&custom_title=💻%20LANGUAGES%20💻&title_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <div align="center">
@@ -281,16 +275,17 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 <!-- HOLOGRAPHIC ACTIVITY GRAPH -->
 <div align="center">
 
-### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **QUANTUM ACTIVITY MATRIX** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **ACTIVITIES ** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=som14062005&custom_title=🌀%20PRAVEEN'S%20QUANTUM%20CONTRIBUTION%20MATRIX%20🌀&bg_color=0d1117&color=ff6b35&line=00ff41&point=ff0080&area=true&hide_border=true&theme=react-dark" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=som14062005&custom_title=🌀%20PRAVEEN'S%20CONTRIBUTION%20🌀&bg_color=0d1117&color=ff6b35&line=00ff41&point=ff0080&area=true&hide_border=true&theme=react-dark" width="100%"/>
 
 </div>
 
 <!-- LEGENDARY CONTRIBUTION SNAKE -->
 <div align="center">
-
-### <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50"> **🐍 LEGENDARY CONTRIBUTION SERPENT 🐍** <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+  
+### <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50"> ** MY CONTRIBUTIONS ** <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake-dark.svg">
@@ -300,31 +295,11 @@ console.log("🌟 Welcome to my digital universe! 🌟");
 
 </div>
 
-<!-- FUTURISTIC CODING STATS -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png"/>
-
-
-
-
-
-<!-- INTERACTIVE ELEMENTS SECTION -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png"/>
-
-
-
-<div align="center">
-
-### **💫 RANDOM DEV WISDOM GENERATOR 💫**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=ff6b35&author_color=00ff41&bg_color=0d1117" />
-
-</div>
 
 <!-- EPIC FINALE -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" />
 
 ### ✨ **"In a world of algorithms, be the exception that breaks the code"** ✨
 
