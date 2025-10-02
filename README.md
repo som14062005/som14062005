@@ -58,12 +58,11 @@
 class UltimateDeveloper {
     constructor() {
         this.name = "Praveen Somasundaram";
-        this.title = "🌀 Digital Reality Architect";
         this.location = "Chennai, Tamil Nadu 🇮🇳";
         this.education = "Rajalakshmi Engineering College";
         
         this.stats = {
-            experience: "Rising Superstar 🌟",
+            experience: "College Student",
             projects_completed: "∞ (Always Building)",
             bugs_crushed: "∞ (Bug Destroyer)",
             all_nighters: "Too many to count 🌙"
