@@ -146,7 +146,7 @@ console.log("🌟 Welcome to my world of code! 🌟");
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,aws&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&theme=dark&perline=10" />
 
 <table>
 <tr>
@@ -157,10 +157,6 @@ console.log("🌟 Welcome to my world of code! 🌟");
 <td align="center" width="100">
 <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" width="65" height="65" />
 <br>MongoDB
-</td>
-<td align="center" width="100">
-<img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width="65" height="65" />
-<br>PostgreSQL
 </td>
 </tr>
 </table>
