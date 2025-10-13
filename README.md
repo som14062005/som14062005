@@ -55,52 +55,31 @@
 <tr>
 
 ```javascript
-class UltimateDeveloper {
-    constructor() {
-        this.name = "Praveen Somasundaram";
-        this.location = "Chennai, Tamil Nadu 🇮🇳";
-        this.education = "Rajalakshmi Engineering College";
-        
-        this.stats = {
-            experience: "College Student",
-            projects_completed: "∞ (Always Building)",
-            bugs_crushed: "∞ (Bug Destroyer)",
-            all_nighters: "Too many to count 🌙"
-        };
-        
-        this.current_mission = [
-            "🎯 Learning DSA in Java",
-            "☁️ Cloud Computing Domination",
-            "🚀 Building Cool Projects To Solve Realworld Problems"
-        ];
-        
-        
-        this.life_motto = "Code • Create • Conquer • Repeat";
-    }
-    
-    async buildTheFuture() {
-        while(this.alive) {
-            this.learn();
-            this.code();
-            this.innovate();
-            this.inspire();
-            await this.sleep(4); // 4hrs max! 😤
-        }
-    }
-    
-    getContactInfo() {
-        return {
-            email: "praveensomasundaram2005@gmail.com",
-            linkedin: "linkedin.com/in/praveen-somasundaram2005",
-            portfolio: "Coming Soon... 🚀",
-            status: "Ready to change the world! 🌍"
-        };
-    }
+class Developer {
+  constructor() {
+    this.name = "Praveen Somasundaram";
+    this.location = "Chennai, Tamil Nadu 🇮🇳";
+    this.college = "Rajalakshmi Engineering College";
+    this.learning = "DSA in Java & Cloud Computing ☁️";
+    this.goal = "Build projects that solve real-world problems 🌍";
+  }
+
+  work() {
+    console.log("💻 Coding, Learning, and Creating every day!");
+  }
+
+  contact() {
+    return {
+      email: "praveensomasundaram2005@gmail.com",
+      linkedin: "linkedin.com/in/praveen-somasundaram2005",
+      portfolio: "Coming Soon 🚀",
+    };
+  }
 }
 
-const praveen = new UltimateDeveloper();
-praveen.buildTheFuture();
-console.log("🌟 Welcome to my digital universe! 🌟");
+const praveen = new Developer();
+praveen.work();
+console.log("🌟 Welcome to my world of code! 🌟");
 ```
 </tr>
 </table>
