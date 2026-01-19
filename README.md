@@ -5,15 +5,9 @@
 
 </div>
 
-<!-- Holographic Name Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&background=FF000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=⚡+DEVELOPER+⚡" alt="Holographic Title"/>
-</h1>
 
 <!-- Matrix Rain Effect Header -->
-<div align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="600" height="300"/>
-</div>
+
 
 <!-- Neon Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -121,7 +115,7 @@ console.log("🌟 Welcome to my world of code! 🌟");
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,tailwind&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express&theme=dark&perline=10" />
 
 <table>
 <tr>
@@ -135,7 +129,7 @@ console.log("🌟 Welcome to my world of code! 🌟");
 </td>
 <td align="center" width="100">
 <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" width="65" height="65" />
-<br>Express
+<br>Express.js
 </td>
 </tr>
 </table>
@@ -167,7 +161,7 @@ console.log("🌟 Welcome to my world of code! 🌟");
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,postman,bash&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,postman&theme=dark&perline=10" />
 
 </div>
 
@@ -257,14 +251,6 @@ console.log("🌟 Welcome to my world of code! 🌟");
 <!-- EPIC FINALE -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-<div align="center">
 
-### ✨ **"In a world of algorithms, be the exception that breaks the code"** ✨
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
-
-### **⭐ STAR MY REPOSITORIES ⭐**
-
-</div>
 
 
