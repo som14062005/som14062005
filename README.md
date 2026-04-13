@@ -120,7 +120,7 @@ console.log("🌟 Welcome to my world of code! 🌟");
 <table>
 <tr>
 <td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/nestjs-icon.svg" alt="Nest.js" width="65" height="65" />
+<img src="https://www.svgrepo.com/show/354107/nestjs.svg" alt="Nest.js" width="65" height="65" />
 <br>Nest.js
 </td>
 <td align="center" width="100">
