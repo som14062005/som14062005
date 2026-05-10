@@ -185,7 +185,7 @@ Praveen Somasundaram
 <!-- HOLOGRAPHIC ACTIVITY GRAPH -->
 <div align="center">
 
-**----ACTIVITIES---- ** 
+**----ACTIVITIES----** 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=som14062005&custom_title=%20PRAVEEN'S%20CONTRIBUTION%20&bg_color=0d1117&color=ff6b35&line=00ff41&point=ff0080&area=true&hide_border=true&theme=react-dark" width="100%"/>
 
 </div>
@@ -193,12 +193,13 @@ Praveen Somasundaram
 <!-- LEGENDARY CONTRIBUTION SNAKE -->
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
-  
- ** ----MY CONTRIBUTIONS---- **
+
+  ** MY CONTRIBUTIONS **
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake.svg">
-  <img alt="Contribution Snake eating my contributions" src="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake.svg">
+  <img alt="Contribution Snake eating my contributions!" src="https://raw.githubusercontent.com/som14062005/som14062005/output/github-snake.svg">
 </picture>
 
 </div>
@@ -206,6 +207,11 @@ Praveen Somasundaram
 
 <!-- EPIC FINALE -->
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+
+
+
+
 
 
 
