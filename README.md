@@ -38,8 +38,6 @@ Praveen Somasundaram
   </tr>
 </table>
 
-<!-- ANIMATED TECH STACK MATRIX -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
 
 
@@ -125,8 +123,6 @@ Praveen Somasundaram
 
 </div>
 
-<!-- CYBERPUNK SEPARATOR -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 
 <!-- SOCIAL MATRIX CONNECTIONS -->
 <div align="center">
@@ -161,9 +157,6 @@ Praveen Somasundaram
 
 </div>
 
-<!-- EPIC GITHUB STATS SECTION -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"/>
-
 
 
 <div align="center">
@@ -192,7 +185,6 @@ Praveen Somasundaram
 
 <!-- LEGENDARY CONTRIBUTION SNAKE -->
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
   ** MY CONTRIBUTIONS **
 
@@ -204,9 +196,6 @@ Praveen Somasundaram
 
 </div>
 
-
-<!-- EPIC FINALE -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 
 
