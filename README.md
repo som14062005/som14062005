@@ -8,7 +8,7 @@
 
 <div align="center">
 
-**─────────────── MY PROFILE ───────────────**
+## MY PROFILE
 
 </div>
 
