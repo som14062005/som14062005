@@ -35,7 +35,7 @@ Praveen Somasundaram
 
 ---
 
-## 🖥️ PROGRAMMING LANGUAGES
+## PROGRAMMING LANGUAGES
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Praveen Somasundaram
 
 ---
 
-## ⚙️ FRAMEWORKS & LIBRARIES
+## FRAMEWORKS & LIBRARIES
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Praveen Somasundaram
 
 ---
 
-## 🗄️ DATABASES & CLOUD
+## DATABASES & CLOUD
 
 <div align="center">
 
@@ -80,7 +80,7 @@ Praveen Somasundaram
 
 ---
 
-## 🛠️ TOOLS & PLATFORMS
+## TOOLS & PLATFORMS
 
 <div align="center">
 
@@ -90,7 +90,7 @@ Praveen Somasundaram
 
 ---
 
-## 🌐 LET'S CONNECT
+## LET'S CONNECT
 
 <div align="center">
 
@@ -122,23 +122,24 @@ Praveen Somasundaram
 
 ---
 
-## 📊 GITHUB STATS
+
+## GITHUB STATS
 
 <div align="center">
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=som14062005&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&custom_title=CORE%20STATISTICS&icon_color=00ff41&title_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+<img height="200px" src="https://github-stats-extended.vercel.app/api?username=som14062005&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&custom_title=CORE%20STATISTICS&icon_color=00ff41&title_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
 &nbsp;&nbsp;
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=som14062005&layout=compact&theme=synthwave&hide_border=true&custom_title=LANGUAGES&title_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
+<img height="200px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=som14062005&layout=compact&theme=synthwave&hide_border=true&custom_title=LANGUAGES&title_color=ff6b35&text_color=ffffff&bg_color=0d1117" />
 
 <br><br>
 
-<img width="90%" src="https://github-readme-streak-stats.demolab.com?user=som14062005&theme=synthwave-purple&hide_border=true&ring=ff6b35&fire=ff6b35&currStreakLabel=00ff41&background=0d1117&stroke=ffffff&currStreakNum=ff6b35&sideNums=00ff41&sideLabels=ffffff&dates=888888" />
+<img width="90%" src="https://github-readme-streak-stats-eight.vercel.app?user=som14062005&theme=synthwave-purple&hide_border=true&ring=ff6b35&fire=ff6b35&currStreakLabel=00ff41&background=0d1117&stroke=ffffff&currStreakNum=ff6b35&sideNums=00ff41&sideLabels=ffffff&dates=888888" />
 
 </div>
 
 ---
 
-## 🏆 TROPHIES
+## TROPHIES
 
 <div align="center">
 
@@ -148,7 +149,7 @@ Praveen Somasundaram
 
 ---
 
-## 📈 ACTIVITY GRAPH
+## ACTIVITY GRAPH
 
 <div align="center">
 
@@ -158,7 +159,7 @@ Praveen Somasundaram
 
 ---
 
-## 🐍 MY CONTRIBUTIONS
+## MY CONTRIBUTIONS
 
 <div align="center">
 
