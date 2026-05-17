@@ -39,12 +39,12 @@ Praveen Somasundaram
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,c,html,css&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,java,c,html,css&theme=dark&perline=10" />
 
 <br><br>
 
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" /><br>JavaScript | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" /><br>TypeScript | <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" /><br>Java |
-|:---:|:---:|:---:|
+| <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" /><br>JavaScript | <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" /><br>Java |
+|:---:|:---:|
 
 </div>
 
@@ -54,12 +54,12 @@ Praveen Somasundaram
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=10" />
 
 <br><br>
 
-| <img src="https://www.svgrepo.com/show/354107/nestjs.svg" width="65" height="65" /><br>Nest.js | <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="65" height="65" /><br>Node.js | <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="65" height="65" /><br>Express.js |
-|:---:|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="65" height="65" /><br>Node.js | <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="65" height="65" /><br>Express.js |
+|:---:|:---:|
 
 </div>
 
